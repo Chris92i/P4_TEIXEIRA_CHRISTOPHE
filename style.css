@@ -476,7 +476,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 40px!important;
 }
 
 .icon-lg {
@@ -704,7 +704,7 @@ p {
     margin: auto auto auto auto; */
     display: flex;
     flex-direction: row;
-    
+
 }
 
 h2 {
